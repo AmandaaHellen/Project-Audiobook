@@ -35,4 +35,4 @@ O tocador de audiobook proporciona uma experiência completa, permitindo que o u
 
 ## 👩🏽‍💻Desenvolvido por
 
-### `Amanda Hellen` durante o <strong>Intensivão de JavaScript</strong> da Programação da Hashtag Treinamentos.
+### `Amanda Hellen` durante o <strong>Intensivão de JavaScript</strong> da Hashtag Treinamentos.
