@@ -6,7 +6,7 @@
 
 ### Projeto desenvolvido durante as aulas do intensivão Javascript.
 
-- Deploy: [Audiobook](https://amandaahellen.github.io/Project-Audiobook/)
+- Deploy: [Audiobook](https://amandaadev.github.io/Project-Audiobook/)
 
 ## Índice
 
